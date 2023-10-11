@@ -46,15 +46,15 @@
 
   "number_of_inters_to_show": 2,
   
-  "onesignal_id": "xxxxxxx",
+  "onesignal_id": "81f77e05-1f0c-4bf8-962b-6a3dd026e015",
   
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/J3c5hEg.webp",
+	 "title": "TV woman for garry's mod 1",
+	 "text": "Trista Vox was a brilliant scientist working on a groundbreaking experiment involving interdimensional travel. However, during a critical phase of the experiment, an unexpected anomaly occurred, transporting her into the world of television",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -66,10 +66,10 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/J3c5OYv.webp",
+	 "title": "TV woman for garry's mod 2",
+	 "text": "Now, she exists as a digital entity with the ability to manipulate and traverse through various TV shows and genres.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -81,10 +81,10 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/J3c5j4a.webp",
+	 "title": "TV woman for garry's mod 3",
+	 "text": "Trista Vox's appearance is a blend of classic and modern TV aesthetics. She wears a stylish outfit that reflects different television eras, with elements from retro sitcoms to futuristic sci-fi shows. Her hair might have a subtle static-like shimmer, indicating her otherworldly nature.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -96,10 +96,10 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/J3c5N3J.webp",
+	 "title": "TV woman for garry's mod 4",
+	 "text": "Trista can navigate through different TV channels, entering and interacting with various genres such as action, drama, horror, and even animated worlds.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -111,10 +111,10 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/J3c5kpp.webp",
+	 "title": "TV woman for garry's mod 5",
+	 "text": "Within each TV genre, she can manipulate the environment, bending reality to fit the theme of the show. For example, in a detective show, she might turn a rainy alley into a noir setting.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -126,10 +126,10 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/J3c5evR.webp",
+	 "title": "TV woman for garry's mod 6",
+	 "text": "Trista can create a protective shield made of pixel-like energy, granting her temporary invulnerability against attacks.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
